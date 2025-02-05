@@ -1,4 +1,4 @@
-Here’s a Quick Start Guide for your GitHub README that summarizes your project and how to get started:
+Quickstart to enter the funny
 
 The Ethics Ouroboros Project
 
